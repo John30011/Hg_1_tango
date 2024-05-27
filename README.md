@@ -1,21 +1,22 @@
 # Hg_1_tango
-Tango
+# tango
 # Nombre de usuario
-- Christian [caracas] 
-- Keishmer [caracas]
-- carlos [miranda]
-- jonathan [miranda]
-- pedro[maracay ]
-- alona [margarita]
-- julio [ ]
-- Raykel [caracas]
-- edwuard [caracas ]
-- alejandro [ ]
-- geffry [puerto la cruz]
-- delta [ ]
-- samuel [caracas]
-- andres [maracaibo]
-- daniel [caracas]
-- six [ ]
+
+- Alfa [X] Christian, Caracas
+- Zulu [ ] Keishmer, Caracas
+- Denzel [ ] Carlos, Miranda
+- Tango [ ] Jonathan, Miranda
+- Romeo [ ] Pedro, Maracay
+- Whisky [ ] Alona, Margarita
+- Zero [ ] Julio,
+- Golf [ ] Raykel, Caracas
+- Beta [ ] Edwuard, Caracas
+- Fooxtruckt [ ] Alejandro, 
+- Xray [ ] Geffry, Puerto la Cruz
+- Delta [ ]
+- Papa [ ] Samuel, Caracas
+- Eco [ ] Andrés, Maracaibo
+- Bravo [ ] Daniel, Caracas
+- Six []
 
 
